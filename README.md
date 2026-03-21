@@ -7,7 +7,7 @@
 ## About Me
 
 - Java/Python 기반으로 Backend, AI, Data Engineering 프로젝트를 진행해왔습니다.
-- 비정형 텍스트 데이터를 수집·정제하고, 이를 검색·분석 서비스로 연결하는 작업에 관심이 많습니다.
+- 비정형 텍스트 데이터를 수집/정제하고, 이를 검색/분석 서비스로 연결하는 작업에 관심이 많습니다.
 - Spring Boot, FastAPI, LangChain 기반 서비스 개발, ETL 파이프라인 구성, 클라우드 인프라 구축, Spark/Databricks 환경 활용 경험이 있습니다.
 
 
