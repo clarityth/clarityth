@@ -8,7 +8,7 @@
 
 - Java/Python 기반으로 Backend, AI, Data Engineering 프로젝트를 진행해왔습니다.
 - 비정형 텍스트 데이터를 수집 및 분석하고, 이를 서비스로 연결하는 작업에 관심이 많습니다.
-- Spring Boot, FastAPI, LangChain 기반 백엔드 서비스 개발, 클라우드 인프라 구축, Spark/Databricks ETL 파이프라인 구축 경험이 있습니다.
+- Spring Boot, FastAPI 백엔드 서비스 개발, 클라우드 인프라 구축, Spark/Databricks ETL 파이프라인 구축 경험이 있습니다.
 
 
 ## Tech Stack
