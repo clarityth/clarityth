@@ -7,7 +7,7 @@
 ### About Me
 
 - I build data pipelines and backend services using Python and Java.
-- I am interested in turning unstructured text data into search, analytics, and AI-powered services.
+- I am interested in turning unstructured data(text, image) into search, analytics, and AI-powered services.
 - Currently studying in the **SSAFY(Samsung Software AI Academy for Youth) Data Track**.
 
 ---
