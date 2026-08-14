@@ -99,7 +99,7 @@
 
 *Data Analytics & Engineering Intern*   | Sep 2025 – Dec 2025
 
-- Developed an Apache Spark-based data matching ETL pipeline
+- Developed an Apache Spark-based text data matching ETL pipeline
 - Built distributed crawling infrastructure on Google Kubernetes Engine
 - Automated Google Cloud Platform cost monitoring workflows
 - Managed Power BI data governance and access control
