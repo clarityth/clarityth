@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:F7F1E8,50:E8D7C2,100:D8BEA0&height=220&section=header&text=Hi%20There%2C%20I%27m%20Taehyung!&fontSize=46&fontColor=4A4036&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:F7F1E8,50:E8D7C2,100:D8BEA0&height=220&section=header&text=Hello%2C%20I%27m%20Taehyung!&fontSize=46&fontColor=4A4036&animation=fadeIn&fontAlignY=38)
 
 </div>
 
